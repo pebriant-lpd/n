@@ -1,0 +1,6 @@
+{
+  "name": "WALUH FAMILY — WELLBORN FAMILY",
+  "description": "ONE FAMILY. ONE LEGACY. Official community platform for WALUH FAMILY featuring member authentication, 5-tier RBAC dashboards, Treasurer coin ledger, Monday-Sunday weekly donation transparency, events, announcements, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
